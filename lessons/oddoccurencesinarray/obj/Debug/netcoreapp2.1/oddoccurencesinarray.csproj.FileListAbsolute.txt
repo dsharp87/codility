@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\bin\Debug\netcoreapp2.1\oddoccurencesinarray.deps.json
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\bin\Debug\netcoreapp2.1\oddoccurencesinarray.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\bin\Debug\netcoreapp2.1\oddoccurencesinarray.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\bin\Debug\netcoreapp2.1\oddoccurencesinarray.dll
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\bin\Debug\netcoreapp2.1\oddoccurencesinarray.pdb
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.dll
+C:\Users\Danny\Desktop\codility\lessons\oddoccurencesinarray\obj\Debug\netcoreapp2.1\oddoccurencesinarray.pdb

@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\demotest\question1\bin\Debug\netcoreapp2.1\question1.deps.json
+C:\Users\Danny\Desktop\codility\demotest\question1\bin\Debug\netcoreapp2.1\question1.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\demotest\question1\bin\Debug\netcoreapp2.1\question1.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\demotest\question1\bin\Debug\netcoreapp2.1\question1.dll
+C:\Users\Danny\Desktop\codility\demotest\question1\bin\Debug\netcoreapp2.1\question1.pdb
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.dll
+C:\Users\Danny\Desktop\codility\demotest\question1\obj\Debug\netcoreapp2.1\question1.pdb
