@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\bin\Debug\netcoreapp2.1\shoopydoopy.deps.json
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\bin\Debug\netcoreapp2.1\shoopydoopy.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\bin\Debug\netcoreapp2.1\shoopydoopy.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\bin\Debug\netcoreapp2.1\shoopydoopy.dll
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\bin\Debug\netcoreapp2.1\shoopydoopy.pdb
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.dll
+C:\Users\Danny\Desktop\codility\lessons\shoopydoopy\obj\Debug\netcoreapp2.1\shoopydoopy.pdb
