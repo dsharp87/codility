@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\bin\Debug\netcoreapp2.1\maxcounters.deps.json
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\bin\Debug\netcoreapp2.1\maxcounters.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\bin\Debug\netcoreapp2.1\maxcounters.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\bin\Debug\netcoreapp2.1\maxcounters.dll
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\bin\Debug\netcoreapp2.1\maxcounters.pdb
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.dll
+C:\Users\Danny\Desktop\codility\lessons\maxcounters\obj\Debug\netcoreapp2.1\maxcounters.pdb
