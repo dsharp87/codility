@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\bin\Debug\netcoreapp2.1\missinginteger.deps.json
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\bin\Debug\netcoreapp2.1\missinginteger.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\bin\Debug\netcoreapp2.1\missinginteger.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\bin\Debug\netcoreapp2.1\missinginteger.dll
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\bin\Debug\netcoreapp2.1\missinginteger.pdb
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.dll
+C:\Users\Danny\Desktop\codility\lessons\missinginteger\obj\Debug\netcoreapp2.1\missinginteger.pdb
