@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\passingCars\bin\Debug\netcoreapp2.1\passingCars.deps.json
+C:\Users\Danny\Desktop\codility\lessons\passingCars\bin\Debug\netcoreapp2.1\passingCars.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\passingCars\bin\Debug\netcoreapp2.1\passingCars.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\passingCars\bin\Debug\netcoreapp2.1\passingCars.dll
+C:\Users\Danny\Desktop\codility\lessons\passingCars\bin\Debug\netcoreapp2.1\passingCars.pdb
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.dll
+C:\Users\Danny\Desktop\codility\lessons\passingCars\obj\Debug\netcoreapp2.1\passingCars.pdb
