@@ -1,0 +1,11 @@
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.csprojAssemblyReference.cache
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.AssemblyInfoInputs.cache
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.AssemblyInfo.cs
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\bin\Debug\netcoreapp2.1\numberOfDiscIntersections.deps.json
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\bin\Debug\netcoreapp2.1\numberOfDiscIntersections.runtimeconfig.json
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\bin\Debug\netcoreapp2.1\numberOfDiscIntersections.runtimeconfig.dev.json
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\bin\Debug\netcoreapp2.1\numberOfDiscIntersections.dll
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\bin\Debug\netcoreapp2.1\numberOfDiscIntersections.pdb
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.dll
+C:\Users\Danny\Desktop\codility\lessons\numberOfDiscIntersections\obj\Debug\netcoreapp2.1\numberOfDiscIntersections.pdb
